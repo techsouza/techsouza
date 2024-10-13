@@ -10,6 +10,7 @@ Atualmente trabalho no setor de telecomunicações, dedicando-me ao desenvolvime
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+<br/>
 
 ![Souza GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=techsouza&theme=blue-green)
 
