@@ -2,8 +2,10 @@
 
 Atualmente trabalho no setor de telecomunicações, dedicando-me ao desenvolvimento profissional através da busca das certificações CCNA e Linux Essentials. Ao mesmo tempo, estou estudando programação para expandir meus conhecimentos e habilidades na criação de soluções inovadoras para redes.
 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) - Estudando para o CCNA
 
+## ⤵️Estudando para Certificações
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## ⤵️Skills
