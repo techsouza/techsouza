@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Willian Souza</h1>
 <h3 align="center">Sou um analista de Telecomunicações em busca do aprendizado para o desenvolvimento em redes</h3>
 
