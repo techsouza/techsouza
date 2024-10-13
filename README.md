@@ -4,6 +4,7 @@ Atualmente trabalho no setor de telecomunicações, dedicando-me ao desenvolvime
 
 ## ⤵️Contato
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## ⤵️Estudando para Certificações
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
