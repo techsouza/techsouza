@@ -4,7 +4,8 @@ Atualmente trabalho no setor de telecomunicações, dedicando-me ao desenvolvime
 
 ## ⤵️Skils
 <div style="display: inline_block"><br/>
-  <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 
