@@ -26,5 +26,4 @@ Atualmente trabalho no setor de telecomunicações, dedicando-me ao desenvolvime
 
 ![Souza GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=techsouza&theme=blue-green)
 
-
-
+![Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=techsouza&theme=blue-green)
