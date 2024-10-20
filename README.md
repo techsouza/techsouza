@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <a href="willian9211@g.mail.com" target="_blank">
+  <a href="willian9211@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="@Go_Horse" target="_blank">
