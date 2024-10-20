@@ -30,22 +30,19 @@
 
 
 <div align="center">
-  <a href="willian9211@gmail.com" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" height="35" alt="gmail logo"  />
+  <a href="willian9211@g.mail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
- 
   <a href="@Go_Horse" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/telegram/telegram.svg" width="35" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  
   <a href="https://www.linkedin.com/in/willian-pacheco-de-souza-a4b347102/" target="_blank">
-       <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  
   <a href="https://www.instagram.com/willpsouza/" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  
+</div>
 </div>
 
 ###
@@ -56,7 +53,13 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cloud.githubusercontent.com/assets/11788803/6986249/98f908f0-da3b-11e4-929d-992bcfa4b552.png" height="35" height="40" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/9f3a0d58-6278-468d-9974-66a9c8560a27" height="55" height="0" />
+
 </div>
+
 
 ###
 
