@@ -6,6 +6,7 @@
 
 <p align="left">✨ Creating bugs for fun <br>📚 I'm currently learning any things<br>🎯 Goals: To be DevNets<br></p>
 
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -27,19 +28,24 @@
 
 <br clear="both">
 
+
 <div align="center">
   <a href="willian9211@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" height="35" alt="gmail logo"  />
   </a>
+ 
   <a href="@Go_Horse" target="_blank">
-    <img src="https://github.com/maurodesouza/profile-readme-generator/tree/main/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/telegram/telegram.svg" width="35" height="40" alt="telegram logo"  />
   </a>
+  
   <a href="https://www.linkedin.com/in/willian-pacheco-de-souza-a4b347102/" target="_blank">
-       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+       <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" height="35" alt="linkedin logo"  />
   </a>
+  
   <a href="https://www.instagram.com/willpsouza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" height="35" alt="instagram logo"  />
   </a>
+  
 </div>
 
 ###
